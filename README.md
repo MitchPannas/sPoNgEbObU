@@ -1,9 +1,9 @@
 ![sPoNgEbObU](Logo.png?raw=true "sPoNgEbObU")
 Remember that dead meme where spongebob impersonates something someone has said?
 
-#Usage
+# Usage
 sponge(str);
 Where str is of type String.
 
-#Examples
+# Examples
 sponge("Hello, world!");
