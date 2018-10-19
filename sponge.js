@@ -6,7 +6,8 @@
 exports.sponge = function (str) {
     
     if (typeof str !== 'string'){
-      return "What you entered was not a string please pass a string";
+      alert("What you entered was not a string please pass a string");
+      return null;
     }
 
     returnStr = "";
