@@ -9,4 +9,6 @@ Where str is of type String.
 # Examples
 ~~~~
 sponge("Hello, world!");
+
+Output = "hellO, WorlD!"
 ~~~~
