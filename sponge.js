@@ -1,7 +1,7 @@
 // Sponge.js
 
 exports.sponge = function (str) {
-    if (typeof str !== 'string' || !(str instanceof String)) {
+    if (typeof str !== 'string'){
       return null;
     }
 
